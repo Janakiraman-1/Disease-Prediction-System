@@ -25,6 +25,9 @@ Seaborn
 Joblib
 Jupyter Notebook
 
+# 📂 Project Structure
+
+```text
 Disease-Prediction-System/
 │
 ├── Disease_Detector.ipynb
@@ -37,3 +40,4 @@ Disease-Prediction-System/
 │   └── disease_model.pkl
 │
 └── outputs/
+```
